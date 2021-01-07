@@ -1,7 +1,13 @@
 # ToolBoox application
 
-ToolBoox for Boox devices
+ToolBoox for Boox devices: https://toolboox.online
 
-# Issues
+# Features
+
+* Calendar
+* Templates
+* TeamDrawer
+
+# Issues & feature requests
 
 https://github.com/gaborauth/toolboox/issues
