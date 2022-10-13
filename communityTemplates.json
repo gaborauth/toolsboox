@@ -1,7 +1,8 @@
 [
   {
     "name":"24x32 grid",
-    "category":"grid",
+    "description":"Simple 24x32 grid"
+    "category":"grids",
     "descriptorUrl":"https://raw.githubusercontent.com/gaborauth/toolboox/main/communityTemplates/grid-24x32.json",
     "templateUrl":"https://raw.githubusercontent.com/gaborauth/toolboox/main/communityTemplates/grid-24x32.png",
     "thumbnailUrl":"https://raw.githubusercontent.com/gaborauth/toolboox/main/communityTemplates/grid-24x32-t.png"
