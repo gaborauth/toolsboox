@@ -1,0 +1,14 @@
+{
+  "version":1,
+  "data":{
+    "contributor":{
+      "email":"gabor.auth@toolboox.online",
+      "name":"Gábor AUTH"
+    },
+    "copyright":"https://creativecommons.org/licenses/by/4.0/",
+    "name":"grey-grid-24x32",
+    "description":"Grey grid (24x32)",
+    "category":"grid",
+    "filename":"grey-grid-24x32.png"
+  }
+}

@@ -1,10 +1,42 @@
 [
   {
-    "name":"24x32 grid",
-    "description":"Simple 24x32 grid",
+    "name":"black-grey-lines-16",
+    "description":"Black-grey lines (x16)",
+    "category":"lines",
+    "descriptorUri":"black-grey-lines-16.json",
+    "templateUri":"black-grey-lines-16.png",
+    "thumbnailUri":"black-grey-lines-16-t.png"
+  },
+  {
+    "name":"black-grid-24x32",
+    "description":"Black grid (24x32)",
     "category":"grids",
-    "descriptorUri":"grid-24x32.json",
-    "templateUri":"grid-24x32.png",
-    "thumbnailUri":"grid-24x32-t.png"
-  }
+    "descriptorUri":"black-grid-24x32.json",
+    "templateUri":"black-grid-24x32.png",
+    "thumbnailUri":"black-grid-24x32-t.png"
+  },
+  {
+    "name":"black-lines-32",
+    "description":"Black lines (x32)",
+    "category":"lines",
+    "descriptorUri":"black-lines-32.json",
+    "templateUri":"black-lines-32.png",
+    "thumbnailUri":"black-lines-32-t.png"
+  },
+  {
+    "name":"grey-grid-24x32",
+    "description":"Grey grid (24x32)",
+    "category":"grids",
+    "descriptorUri":"grey-grid-24x32.json",
+    "templateUri":"grey-grid-24x32.png",
+    "thumbnailUri":"grey-grid-24x32-t.png"
+  },
+  {
+    "name":"grey-lines-32",
+    "description":"Grey lines (x32)",
+    "category":"lines",
+    "descriptorUri":"grey-lines-16.json",
+    "templateUri":"grey-lines-32.png",
+    "thumbnailUri":"grey-lines-32-t.png"
+  },
 ]

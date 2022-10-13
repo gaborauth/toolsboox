@@ -6,8 +6,9 @@
       "name":"Gábor AUTH"
     },
     "copyright":"https://creativecommons.org/licenses/by/4.0/",
-    "name":"24x32 grid",
+    "name":"black-grid-24x32",
+    "description":"Black grid (24x32)",
     "category":"grid",
-    "filename":"grid-24x32.png"
+    "filename":"black-grid-24x32.png"
   }
 }
