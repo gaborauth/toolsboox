@@ -1,0 +1,14 @@
+{
+  "version":1,
+  "data":{
+    "contributor":{
+      "email":"gabor.auth@toolsboox.com",
+      "name":"Gábor AUTH"
+    },
+    "copyright":"https://creativecommons.org/licenses/by/4.0/",
+    "name":"grey",
+    "description":"Grey background",
+    "category":"backgrounds",
+    "filename":"grey.png"
+  }
+}

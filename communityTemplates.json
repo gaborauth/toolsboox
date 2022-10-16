@@ -1,5 +1,13 @@
 [
   {
+    "name":"black-engineering-40x60",
+    "description":"Black engineering (40x60)",
+    "category":"grids",
+    "descriptorUri":"black-engineering-40x60.json",
+    "templateUri":"black-engineering-40x60.png",
+    "thumbnailUri":"black-engineering-40x60-t.png"
+  },
+  {
     "name":"black-grey-lines-16",
     "description":"Black-grey lines (x16)",
     "category":"lines",
@@ -24,6 +32,30 @@
     "thumbnailUri":"black-lines-32-t.png"
   },
   {
+    "name":"black-music-sheet-5",
+    "description":"Black music sheet (x5)",
+    "category":"music",
+    "descriptorUri":"black-music-sheet-5.json",
+    "templateUri":"black-music-sheet-5.png",
+    "thumbnailUri":"black-music-sheet-5-t.png"
+  },
+  {
+    "name":"black",
+    "description":"Black background",
+    "category":"backgrounds",
+    "descriptorUri":"black.json",
+    "templateUri":"black.png",
+    "thumbnailUri":"black-t.png"
+  },
+  {
+    "name":"grey-engineering-40x60",
+    "description":"Grey engineering (40x60)",
+    "category":"grids",
+    "descriptorUri":"grey-engineering-40x60.json",
+    "templateUri":"grey-engineering-40x60.png",
+    "thumbnailUri":"grey-engineering-40x60-t.png"
+  },
+  {
     "name":"grey-grid-24x32",
     "description":"Grey grid (24x32)",
     "category":"grids",
@@ -38,5 +70,21 @@
     "descriptorUri":"grey-lines-16.json",
     "templateUri":"grey-lines-32.png",
     "thumbnailUri":"grey-lines-32-t.png"
+  },
+  {
+    "name":"grey-music-sheet-5",
+    "description":"Grey music sheet (x5)",
+    "category":"music",
+    "descriptorUri":"grey-music-sheet-5.json",
+    "templateUri":"grey-music-sheet-5.png",
+    "thumbnailUri":"grey-music-sheet-5-t.png"
+  },
+  {
+    "name":"grey",
+    "description":"Grey background",
+    "category":"backgrounds",
+    "descriptorUri":"grey.json",
+    "templateUri":"grey.png",
+    "thumbnailUri":"grey-t.png"
   }
 ]
