@@ -1,31 +1,8 @@
 # ToolBoox application
 
-<img src="https://toolboox.online/assets/images/icon.png" width="100" height="100"/>
+Main project: [https://github.com/gaborauth/toolsboox-android](https://github.com/gaborauth/toolsboox-android)
 
-ToolBoox for Boox devices: https://toolboox.online
+## Community templates
 
-# Latest apk
+In the `Tools for Boox` application there is a list of templates that are free and open to anyone to use.
 
-[toolboox-prod-release-1.1.0-00.apk](https://nexus.iotguru.dev/repository/releases/online/toolboox/toolboox-prod-release/1.1.0-00/toolboox-prod-release-1.1.0-00.apk)
-
-# Features
-
-## Calendar
-
-Coming soon! Stay tuned.
-
-## Templates
-
-Coming soon! Stay tuned.
-
-## TeamDrawer
-
-You draw, we see. We draw, you see. From anywhere.
-
-## Private notes
-
-Coming soon! Stay tuned.
-
-# Issues & feature requests
-
-https://github.com/gaborauth/toolboox/issues
